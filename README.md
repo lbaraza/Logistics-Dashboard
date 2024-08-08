@@ -13,7 +13,7 @@ The goal is to provide actionable insights that can help managers and teams to i
 - Create action plans for continuous improvement to immediately enhance their customer experience.
 - Facilitate targeted interventions to improve the overall satisfaction of these key clients.
 3. Identify Clients' OTIF Performance:
--Provide detailed analysis of each client's OTIF performance.
+- Provide detailed analysis of each client's OTIF performance.
 
 # Data Sources
 You can access the datasets through the following links:
