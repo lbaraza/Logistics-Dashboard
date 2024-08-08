@@ -39,10 +39,10 @@ The project involves mastering DAX to create complex measures that drive the ins
 # Usage
 To use the data analysis tool, follow these steps:
 
-1  Data Preparation: Ensure the data is collected and cleaned, ready to be imported into Power BI.
-2  Import Data: Load the data into Power BI.
-3  Dashboard Interaction: Use the interactive features of the dashboard to explore the OTIF performance insights.
-4  Action Plans: Based on the insights, develop and implement action plans to address areas needing improvement.
+1.  Data Preparation: Ensure the data is collected and cleaned, ready to be imported into Power BI.
+2.  Import Data: Load the data into Power BI.
+3.  Dashboard Interaction: Use the interactive features of the dashboard to explore the OTIF performance insights.
+4.  Action Plans: Based on the insights, develop and implement action plans to address areas needing improvement.
 # Conclusion
 This data analysis tool is designed to provide a deep understanding of OTIF performance for both clients and carriers. By leveraging Power BI and DAX, we can present detailed and actionable insights that drive continuous improvement and enhance customer experience
   
