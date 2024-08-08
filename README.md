@@ -15,6 +15,9 @@ The goal is to provide actionable insights that can help managers and teams to i
 3. Identify Clients' OTIF Performance:
 -Provide detailed analysis of each client's OTIF performance.
 
+# Data Sources
+You can access the datasets through the following links:
+- https://github.com/lbaraza/Logistics-Dashboard/blob/main/Carriers%20Details.pdf
 # Tools Used
 - Power BI: Power BI is utilized for data visualization and reporting. 
 It enables the creation of interactive and insightful dashboards that help in understanding and analyzing OTIF performance metrics for both clients and carriers.
